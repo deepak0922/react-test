@@ -1,0 +1,47 @@
+
+.form{
+margin: 0 auto;
+background:#F7BB41;
+height: fit-content;
+font-weight:Bold;
+padding:20px;
+width:fit-content;
+border-radius: 4px;
+font-family:"Calibri";
+
+z-index: 12;
+}
+
+.formItems{
+    
+}
+
+.formItems button
+{
+    margin-top: 10px;
+align-items: center;
+border-radius: 20px;
+background: #11ADE8;
+padding: 10px 30px;
+color: #fff;
+outline: none;
+border: none;
+cursor: pointer;
+transition: all 0.2s ease-in-out;
+text-decoration: none;
+}
+
+.formItems input{
+    border-radius: 3px;
+    border: #11ADE8 solid 0.5px;
+    height: 35px;
+    width: 250px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
+.formItems label{
+    text-align: right;
+    margin-top: 10px;
+    font-size: larger;
+}
